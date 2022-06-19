@@ -237,17 +237,17 @@ p {
       li {
           width: 100px;
           height: 100px;
-          margin: .8rem;
+          margin: .5rem;
       }
   
       h3 {
           
-          font-size: 35px;
+          font-size: 25px;
       }
   
       p {
           
-          font-size: 12px;
+          font-size: 10px;
       }
   
       .blur-container {
