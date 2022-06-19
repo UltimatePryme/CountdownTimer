@@ -235,10 +235,9 @@ p {
       }
   
       li {
-          width: 150px;
-          height: 150px;
+          width: 100px;
+          height: 100px;
           margin: .8rem;
-          background-color: #ffb567;
       }
   
       h3 {
